@@ -8,7 +8,7 @@ Manage fees by academic year and standard
 
 # Installation
 1.Clone the repository:
-git clone https://github.com/username/fee-manager-application.git
+git clone https://github.com/akkiiicodes/fee-manager-application.git
 
 2.Import the Project:
 Go to File > Import... in STS. Select Existing Maven Projects, locate the project folder, and click Finish.
